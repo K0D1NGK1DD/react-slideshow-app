@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-slideshow-app/static/css/main.9f217977.css",
+    "main.js": "/react-slideshow-app/static/js/main.15422246.js",
+    "index.html": "/react-slideshow-app/index.html",
+    "main.9f217977.css.map": "/react-slideshow-app/static/css/main.9f217977.css.map",
+    "main.15422246.js.map": "/react-slideshow-app/static/js/main.15422246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f217977.css",
+    "static/js/main.15422246.js"
+  ]
+}
